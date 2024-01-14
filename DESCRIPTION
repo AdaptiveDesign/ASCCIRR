@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Dongyuan", "Wu", , "dongyuanwu@ufl.edu", role = c("aut", "cre"))
 Description: This package provides asymptotic score continuity-corrected confidence intervals for relative risk from both paired data and independent data.
-License: MIT + file LICENSE
+License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
